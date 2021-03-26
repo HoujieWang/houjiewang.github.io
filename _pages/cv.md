@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 --- 
-All details about my academic experience are available in my <a href="houjiewang.github.io/CV.pdf" target="_blank">PDF</a>
+All details about my academic experience are available in my <a href="https://houjiewang.github.io/CV.pdf" target="_blank">PDF</a>.
