@@ -1,9 +1,7 @@
----
-title: ""
-collection: publications
-permalink: /publication/pub1.md
----
-Tropical Support Vector Machine and its Applications to Phylogenomics
-Xiaoxian Tang, Houjie Wang and Ruriko Yoshida (2020)
-[pdf](https://arxiv.org/abs/2003.00677)
+# Papers
 
+## Tropical Support Vector Machine and its Applications to Phylogenomics (2020) 
+
+Xiaoxian Tang, Houjie Wang, Ruriko Yoshida 
+
+[pdf](https://arxiv.org/abs/2003.00677)
